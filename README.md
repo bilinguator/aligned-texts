@@ -1,3 +1,5 @@
+![](img/banner.png)
+
 # Aligned Texts
 
 You can find the aligned texts we use in the [Bilinguator.com](https://bilinguator.com/) website to create bilingual books!
