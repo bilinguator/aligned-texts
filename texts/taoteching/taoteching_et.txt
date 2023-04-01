@@ -1,0 +1,164 @@
+Laozi<delimiter>
+<h1>Daodejing</h1><delimiter>Tõlkija: Tõnn Sarv
+<h1>1</h1>
+Kõlblik tee ei kõlba.<delimiter>Nimi ei tähenda midagi.<delimiter>Alguses pole nime,<delimiter>nimetamisest tekib kõik.<delimiter>Kes ei taha, see näeb;<delimiter>kes tahab, see tunneb.<delimiter>See on üks ja seesama,<delimiter>vahe on nimetamises.<delimiter>Üheskoos paistab sügavus.<delimiter>Sügavusest avaneb põhjatus.
+<h1>2</h1>
+Kõik teavad, mis on ilus<delimiter>— sealt ka inetus.<delimiter>Kõik teavad, mis on hea<delimiter>— sealt ka halb.<delimiter>Kui ühte pole, siis teine on.<delimiter>Raskus täiendab kergust,<delimiter>pikkus mõõdab lühidust,<delimiter>ülemine hoiab alumist,<delimiter>hääl kõlab ikka helina,<delimiter>esimese järel tuleb tagumine.<delimiter>Tegemiseks ei pea tegema,<delimiter>sõnadeta saab õpetada,<delimiter>vaidlemata saab luua.<delimiter>Mis sünnib, ei kuulu sulle.<delimiter>Toetust pole vaja otsida.<delimiter>Kui lõpetasid, ära peatu.<delimiter>Kes ei peatu, jääb püsima.
+<h1>3</h1>
+Milleks karjäär<delimiter>— ainult kadestamiseks.<delimiter>Milleks varandused<delimiter>— ainult varastamiseks.<delimiter>Milleks ihaldused<delimiter>— ainult rahutuste tekitamiseks.<delimiter>Kui tahad valitseda,<delimiter>hoia meeled tühjad ja kõhud täis,<delimiter>tahtmised nõrgad ja kondid tugevad.<delimiter>Ei mõista ega taha midagi.<delimiter>Kes mõistab, ei tee midagi.<delimiter>Tee nii, et ei tee midagi<delimiter>ja miski ei jää tegemata.
+<h1>4</h1>
+Tee on tühi. Tee ei kulu.<delimiter>Põhjatusest tuleb kõik.<delimiter>Tera läheb nüriks,<delimiter>sõlm tuleb lahti,<delimiter>sära tuhmub,<delimiter>tolm jääb alles.<delimiter>Ma ei tea, kust ta tuli.<delimiter>Jumal ka ei tea.
+<h1>5</h1>
+Maailmale pole asju vaja<delimiter>— nad on vaid õlekujud.<delimiter>Targale pole inimesi vaja<delimiter>— nad on vaid õlekujud.<delimiter>Maailm on tühi,<delimiter>nagu lõõts.<delimiter>Iga liigutus annab tulemuse.<delimiter>Sõnad on liigsed, ainult keskendu.
+<h1>6</h1>
+Vaim elab oru sügavuses<delimiter>nagu igavene vanaema,<delimiter>kelle tumedast avast<delimiter>voolab maailm välja.<delimiter>Kõigile kasutamiseks,<delimiter>alati annab kätte.
+<h1>7</h1>
+Maailm on igavene.<delimiter>Tal pole midagi vaja.<delimiter>Seepärast ta püsibki.<delimiter>Tark jääb taha, kuid on ees.<delimiter>Tark jääb välja, kuid on sees.<delimiter>Kes midagi ei taha,<delimiter>see kõike saab.
+<h1>8</h1>
+Headus on nagu vesi.<delimiter>Ta on kõigile vajalik,<delimiter>ta voolab ka halbadesse kohtadesse.<delimiter>Ta on nagu tee.<delimiter>Maa on kodule hea,<delimiter>sügavus on meelele hea,<delimiter>lahkus on seltskonnale hea,<delimiter>usaldus on sõnadele hea,<delimiter>selgus on valitsemisele hea,<delimiter>oskus on tegemisele hea,<delimiter>aeg on ettevõtmisele hea.<delimiter>Kes ei vaidle, sel pole pahandust.
+<h1>9</h1>
+Kõike korraga ei jõua. Pole vajagi.<delimiter>Kes kogu aeg teritab, jääb terast ilma.<delimiter>Kes varandust kogub, peab seda kaitsema.<delimiter>Kes ennast kergitab, see langeb.<delimiter>Kui valmis said, mine edasi.<delimiter>See on õige tee.
+<h1>10</h1>
+Kui hoiad ühte, loobu teisest.<delimiter>Kui loodad õrnust, sünni jälle.<delimiter>Kui vaatad sügavusse, ole puhas.<delimiter>Kui valitsed, jaga asju.<delimiter>Kui avad võimalusi, ole naine.<delimiter>Kui mõistad kõike, ei tee midagi.<delimiter>Kui midagi sünnib,<delimiter>las ta siis kasvab ja läheb.<delimiter>Juhi valitsemata.<delimiter>See on sügavuse vägi.
+<h1>11</h1>
+Kodarad hoiavad ratast koos.<delimiter>Auk selle keskel teeb ta kasulikuks.<delimiter>Savist vormitakse anumat.<delimiter>Õõnsus selle sees teeb ta kasulikuks.<delimiter>Seintesse jäetakse avavused.<delimiter>Need teevad ruumi kasulikuks.<delimiter>Vajalik tuleb teha.<delimiter>Puuduvast on kasu.
+<h1>12</h1>
+Liiga palju värve – midagi ei näe.<delimiter>Liiga palju hääli – midagi ei kuule.<delimiter>Liiga palju maitseid – midagi ei tunne.<delimiter>Kiirustamine ja tagaajamine teevad segaseks.<delimiter>Kallid kaubad ajavad hulluks.<delimiter>Tark täidab kõhud, mitte meeled.<delimiter>Ühe võtab, teise jätab.
+<h1>13</h1>
+Ülendus ja alandus ehmatavad.<delimiter>Austust ja häbi võetakse isiklikult.<delimiter>Miks ülendus ja alandus ehmatavad?<delimiter>Saamine ehmatab, kaotamine ehmatab.<delimiter>Sellepärast ülendus ja alandus ehmatavad.<delimiter>Miks võetakse austust ja häbi isiklikult?<delimiter>Ainult ise saab häbi tunda.<delimiter>Poleks sind, poleks ka häbi.<delimiter>Kes hindab maailma nagu ennast,<delimiter>võtku maailm oma hoolde.<delimiter>Kes austab maailma nagu ennast,<delimiter>võtku maailm oma kaitse alla.
+<h1>14</h1>
+Vaadates ei näe – nähtamatu.<delimiter>Kuulates ei kuule – kuuldamatu.<delimiter>Katsudes ei tunne – tundmatu.<delimiter>Kolmest puudumisest saab üks.<delimiter>Ei hele pealt, ei tume alt,<delimiter>ääretu ja piiritu,<delimiter>nimetuna tuleb,<delimiter>pole kuju, pole asja,<delimiter>segane ja hämar.<delimiter>Tuleb vastu – nägu pole,<delimiter>läheb ära – selga pole.<delimiter>Sügavusest juhid maailma,<delimiter>põhjatusest mõistad kõike.<delimiter>Nii see käib.
+<h1>15</h1>
+Vana tark on varjus<delimiter>märkamatu ja sügav.<delimiter>Tema sügavust ei näe.<delimiter>Väliselt aga näib ta olevat<delimiter>ettevaatlik nagu läheks üle jää,<delimiter>arglik nagu kardaks naabreid,<delimiter>viisakas nagu oleks külaline,<delimiter>ebamäärane nagu sulav jää,<delimiter>lihtsameelne nagu puupakk,<delimiter>tühi nagu laiuv org,<delimiter>segane nagu porine vesi.<delimiter>Paigal olles, kuni pori settib.<delimiter>Liikudes, kui selgus käes.<delimiter>Sellel teel ei olda täis.<delimiter>Vana täitub uuega.
+<h1>16</h1>
+Rahu säilib tühjuses.<delimiter>Kõik tulevad, lähevad ja tulevad jälle.<delimiter>Tagasi rahusse, pühendumisse.<delimiter>Pühendumine annab püsivuse.<delimiter>Püsivus annab mõistmise.<delimiter>Ilma püsiva mõistmiseta<delimiter>minnakse hukka.<delimiter>Püsiv mõistmine teeb lahti.<delimiter>Lahtine on rahulik,<delimiter>rahulik on kuninglik,<delimiter>kuninglik on õige,<delimiter>õigele on tee,<delimiter>tee kestab.<delimiter>Ihu lahkub valutult.
+<h1>17</h1>
+Kõige paremaid me teame.<delimiter>Vähem paremaid me armastame.<delimiter>Veelgi vähemaid me kardame.<delimiter>Veelgi vähemaid me põlgame.<delimiter>Usaldus loob usalduse.<delimiter>Said valmis, tõmbu eemale.<delimiter>Palju sõnu pole vaja.<delimiter>Las arvavad, et ise läks nii.
+<h1>18</h1>
+Tee kadumisel<delimiter>ilmub lahkus ja õiglus.<delimiter>Koos arukusega<delimiter>ilmub valelikkus.<delimiter>Peretülidega<delimiter>kaasneb hoolitsus.<delimiter>Mässude puhul<delimiter>ilmuvad ustavad teenrid.
+<h1>19</h1>
+Arukusest loobudes<delimiter>tuleb palju kasu.<delimiter>Lahkusest ja õiglusest loobudes<delimiter>ilmub austus.<delimiter>Edukusest loobudes<delimiter>kaovad vargad.<delimiter>Need on vaid kaunistused.<delimiter>Pigem olla lihtne ja loomulik,<delimiter>soovideta ja tahtmisteta.
+<h1>20</h1>
+Kui pole tarkust, pole ka muresid.<delimiter>Kui kaugel on jah ja ei?<delimiter>Mis vahe on heal ja halval?<delimiter>Mida peab kartma ja mida kahetsema?<delimiter>Mõttetult, lõputult.<delimiter>Rõõm ja pidu kevadel, rahvas kõik väljas.<delimiter>Minul ainult vaikne meel<delimiter>nagu lapsel naeruta,<delimiter>ükskõikselt ja pöördumatult.<delimiter>Kõikidel on nõnda palju,<delimiter>minul mitte midagi,<delimiter>segaduses, rumalalt.<delimiter>Kõik on nõnda valguses,<delimiter>mina ainult hämaras.<delimiter>Kõik on nõnda arukad,<delimiter>mina ainult muretu<delimiter>nagu laine, mis ei püsi.<delimiter>Kõik nad teavad, mida teevad,<delimiter>mina ainult algeline, mina ainult erinev.<delimiter>Toitvat ema armastan.
+<h1>21</h1>
+Suurim vägi kulgeb teel.<delimiter>Tee on hämar, varjune.<delimiter>Seal on kujundid,<delimiter>nii hämaras, nii varjuses.<delimiter>Seal on ollus, nii hämaras, nii varjuses.<delimiter>Seal on sisu, kohe päriselt. Seal on usaldus.<delimiter>Kaugetest aegadest siiani<delimiter>pole ta nimi kadunud.<delimiter>Kuidas ma seda tean?<delimiter>Just nõnda.
+<h1>22</h1>
+Kes on haige, terveks saab,<delimiter>kes on kõver, sirgeks saab,<delimiter>kes on must, puhtaks saab,<delimiter>kes on närtsind, värskeks saab.<delimiter>Vähe tahad — palju saad,<delimiter>palju tahad — segi lähed.<delimiter>Targal on vaid üks ja õige.<delimiter>Ei näita, aga paistab.<delimiter>Ei õigusta, kuid on õige.<delimiter>Ei kiitle, kuid on au sees.<delimiter>Ta ei võistle —<delimiter>ja temaga ei võistelda.<delimiter>Ammu teada: kes on haige, terveks saab.<delimiter>Tõsijutt. Vaja vaid tagasi tulla.
+<h1>23</h1>
+Sõnad on vaikuses.<delimiter>Marutuul vaibub lõunaks,<delimiter>paduvihm vaibub õhtuks.<delimiter>Neid teeb maailm.<delimiter>Kui maailm kauem ei jõua,<delimiter>kuidas siis sinagi jõuad?<delimiter>Seepärast ole teel.<delimiter>Kes on teel, see on tee.<delimiter>Kes on väes, see on vägi.<delimiter>Kes on eksituses, see on eksitus.<delimiter>Tee hoiab teelist.<delimiter>Vägi hoiab väelist.<delimiter>Eksitus hoiab eksijat.<delimiter>Usaldus loob usalduse.
+<h1>24</h1>
+Kaua sa seisad varvastel?<delimiter>Kaua sa kõnnid pikkade sammudega?<delimiter>Kergitades sa ei paista.<delimiter>õigustades ei saa õigeks.<delimiter>Kiitlemine ei too austust,<delimiter>uhkeldus ei anna uhkust.<delimiter>Teel neid vaja ei ole.<delimiter>Mõttetu praht.<delimiter>Teele nad kaasa ei tule.
+<h1>25</h1>
+Midagi on segadusest tekkinud,<delimiter>enne maailma, tühi ja vaikne,<delimiter>üks ja seesama,<delimiter>igal pool, vahetpidamata.<delimiter>Sealt ka maailm, kes teab.<delimiter>Nime ei tea. Ütleme, tee.<delimiter>Nimi on suva. Ütleme, suur.<delimiter>Suur läheb ära. Mis läheb, see tuleb.<delimiter>Suur tee. Suur maa.<delimiter>Suur taevas. Suur kuningas.<delimiter>Kuningas on neljas.<delimiter>Inimesel on maa.<delimiter>Maal on taevas.<delimiter>Taeval on tee.<delimiter>Teel on tee.
+<h1>26</h1>
+Kergus on raskuse pinnal.<delimiter>Rahu on rahutuse juht.<delimiter>Tark veab raskust päeval.<delimiter>Õhtul jätab rahule.<delimiter>Kuidas muidu saaks<delimiter>raskust kergelt võtta?<delimiter>Kergelt võttes kaotad pinna.<delimiter>Rahutusega kaob juht.
+<h1>27</h1>
+Heal kõndijal pole jälgi.<delimiter>Heal jutustajal pole tõrkeid.<delimiter>Heal arvutajal pole sõrmi vaja.<delimiter>Hea sulgeja ei vaja riivi,<delimiter>aga lahti ei tule.<delimiter>Heal sõlmetegijal pole nööri vaja,<delimiter>aga lahti ei tule.<delimiter>Tark hoolib kõigist,<delimiter>ei jäta kedagi kõrvale.<delimiter>Tema selgus kandub edasi.<delimiter>Tark õpetab rumalaid,<delimiter>rumalad õpivad targalt.<delimiter>Kes targalt ei õpi,<delimiter>see eksib.<delimiter>Kummaline?
+<h1>28</h1>
+Kes on mees, sel on naine.<delimiter>Kes on maailma jõgi,<delimiter>see on maailma jõgi.<delimiter>Vägi jääb alles, laps tuleb jälle.<delimiter>Kes on hele, sel on tume.<delimiter>Kes on maailma mõõt,<delimiter>see on maailma mõõt.<delimiter>Väge ei kao, lõputu tuleb jälle.<delimiter>Kes on aus, sel on häbi.<delimiter>Kes on maailma org,<delimiter>see on maailma org.<delimiter>Väge jätkub, lihtsus tuleb jälle.<delimiter>Lihtsusest saab vajalik.<delimiter>targast tuleb valitseja.<delimiter>Suur teeb kõike tegemata.
+<h1>29</h1>
+Maailma muuta ei õnnestu,<delimiter>maailm on imesid täis.<delimiter>Nii kui puutud, läheb katki,<delimiter>nii kui võtad, läheb kaotsi.<delimiter>Mõni on ees, mõni on taga.<delimiter>Mõni hingab sisse, mõni välja.<delimiter>Mõni on tugev, mõni on nõrk.<delimiter>Mõni tekib, mõni kaob.<delimiter>Tark jätab liigse,<delimiter>jätab kasutu, jätab tühise.
+<h1>30</h1>
+Kui toetad valitsejat teel,<delimiter>siis pole vaja võidelda.<delimiter>Tulemused saabuvad.<delimiter>Võitlusväljal kasvab takjas,<delimiter>pärast võitlust — ikaldus.<delimiter>Ka suurim sõjavägi saab lüüa.<delimiter>Kui said valmis, jäta rahule.<delimiter>Kui saavutad, siis taandu.<delimiter>Kui saavutad, ära hinda.<delimiter>Kui saavutad, ära kiitle.<delimiter>Kui saavutad, ära hoople.<delimiter>Kui saavutad, ära võta.<delimiter>Mis tee see on, kui oled vanadusest nõder?<delimiter>Kui poleks tee, siis oleks ammu lõpp.
+<h1>31</h1>
+Sõjariistad õnne ei too,<delimiter>teel neid vaja ei ole.<delimiter>Parimad mõtlevad, et rahu ajal<delimiter>olen vasakul, sõja ajal olen paremal.<delimiter>Sõjariistad õnne ei too,<delimiter>parimatel neid vaja ei ole.<delimiter>Tarvitavad, kui muidu ei saa,<delimiter>rahu on aga parim.<delimiter>Võita võib, kuid valusalt,<delimiter>rõõmu tapmisest ei tule.<delimiter>Tapmisest rõõmu tundes soovid ei täitu.<delimiter>Heal ajal vasemal, halval ajal paremal.<delimiter>Kannupoiss on vasemal, ohvitser on paremal.<delimiter>Nagu ikka halval ajal, nagu ikka leina-ajal,<delimiter>kus on väga palju surnuid.<delimiter>Kui võit on käes, siis lasku leina.
+<h1>32</h1>
+Teel pole kunagi nime.<delimiter>Ta on loomulik ja märkamatu,<delimiter>maailm teda ei muuda.<delimiter>Kui kuningas on teel,<delimiter>siis kõik on temaga.<delimiter>Taevas tuleb maa peale,<delimiter>vihm läheb magusaks,<delimiter>korraldusi pole ja kõik on õiglane.<delimiter>Korraldustel on nimed.<delimiter>Nimedes on lõpp.<delimiter>Kes lõppu näeb, jääb seisma.<delimiter>Kes seisma jääb, on kaitstud.<delimiter>Tee on nagu oja,<delimiter>mis jõkke ja merre viib.
+<h1>33</h1>
+Kes teisi tunneb, on tark.<delimiter>Kes ennast tunneb, see teab.<delimiter>Kes teisi võidab, on tugev.<delimiter>Kes ennast võidab, sel vägi.<delimiter>Kes vähe tahab, on rikas.<delimiter>Kes palju tahab, sel jõud.<delimiter>Kes paigale jääb, jääb alles.<delimiter>Kes surres ei kao, elab kaua.
+<h1>34</h1>
+Suur tee laiub igale poole<delimiter>ja kõik on temaga.<delimiter>Ta mõjub ja nime ei vaja<delimiter>ja midagi ära ei võta.<delimiter>Ta hoolitseb kõikide eest<delimiter>kedagi valitsemata,<delimiter>midagi soovimata.<delimiter>Tegelikult on ta väike.<delimiter>Kõik tulevad temaga,<delimiter>tema ei valitse kedagi.<delimiter>Tegelikult on ta suur.<delimiter>Ta ei pea suur olema,<delimiter>nii ta suur ongi.
+<h1>35</h1>
+Jää suureks.<delimiter>Kõik tuleb sinusse.<delimiter>Kõigil on hea ja kindel,<delimiter>kõigil on rahu ja vaikus.<delimiter>Muusika ja maiustused<delimiter>meelitavad rändureid.<delimiter>Teel ei ole maitset.<delimiter>Vaatad teda — näha pole.<delimiter>Kuulad teda — kuulda pole.<delimiter>Pruugid teda — otsa ei saa.
+<h1>36</h1>
+Enne laienda, siis vähenda.<delimiter>Enne tugevda, siis nõrgenda.<delimiter>Enne ehita, siis lammuta.<delimiter>Enne anna, siis võta.<delimiter>See on märkamatu selgus.<delimiter>Õrn ja nõrk on tugevast ja kõvast üle.<delimiter>Kala ei püüta sügavikust.<delimiter>Inimestele tapariistu ei näidata.
+<h1>37</h1>
+Tee ei tee midagi<delimiter>ja midagi ei jää tegemata.<delimiter>Kui kuningas on teel,<delimiter>siis kõik ta ümber kujuneb.<delimiter>Kui keegi tahab toimetada,<delimiter>siis ise olles nimetu ja loomulik,<delimiter>ta peagi rahuneb.<delimiter>Nimetu ja loomulik<delimiter>ei soovi midagi.<delimiter>Ei ole soove, on vaikus.<delimiter>On rahu maailmas.
+<h1>38</h1>
+Kõrge vägi ei ole vägev. Tal on vägi.<delimiter>Madal vägi on vägev.Tal ei ole väge.<delimiter>Kõrge vägi ei tee midagi<delimiter>ja midagi ei jää tegemata.<delimiter>Madalam vägi teeb ja palju jääb teha.<delimiter>Südamlikkus teeb ja midagi ei jää tegemata.<delimiter>Õiglus teeb ja palju jääb teha.<delimiter>Kombed teevad oma tööd,<delimiter>nende vastu ei saa, kohe tullakse kallale.<delimiter>Kaob tee, jääb vägi. Kaob vägi, jääb südamlikkus.<delimiter>Kaob südamlikkus, jääb õiglus.<delimiter>Kaob õiglus, jäävad kombed.<delimiter>Kombed on kest usaldusele, aga ka segaduse algus.<delimiter>Ettenägemine on õis teel, aga ka rumaluse algus.<delimiter>Tark on tuumas, mitte koorel.<delimiter>Viljas, mitte õiel.<delimiter>Ühe jätab, teise võtab.
+<h1>39</h1>
+Kunagi leiti see üks ja ainus.<delimiter>Taeval on ainus selgus,<delimiter>maal on ainus kindlus,<delimiter>vaimul on ainus võimsus,<delimiter>orul on ainus küllus,<delimiter>kõigil on ainus elujõud,<delimiter>kuningal on ainus austus.<delimiter>Nendel on see üks ja ainus.<delimiter>Taeva selgus võib tumeneda,<delimiter>maa kindlus võib mõraneda,<delimiter>vaimu võimsus võib lahtuda,<delimiter>oru küllus võib ammenduda,<delimiter>kõikide elujõud võib hääbuda,<delimiter>kuninga austus võib langeda.<delimiter>Austusest kasvab alandus;<delimiter>ülevus seisab alandusel.<delimiter>Kuningas võib ju ennast alandada, aga miks?<delimiter>Austusest kasvab alandus, aga mitte nõnda.<delimiter>Lammutamine ei kasvata.<delimiter>Pärl on kees, kivi on maas.
+<h1>40</h1>
+Tee toob tagasi.<delimiter>Kergelt.<delimiter>Kõik tuleb sellest, mis on.<delimiter>Mis on, tuleb sellest, mida pole.
+<h1>41</h1>
+Tark õpilane järgib teed.<delimiter>Keskmine vahel järgib, vahel mitte.<delimiter>Rumal ainult naerab.<delimiter>Kui naeru poleks, siis poleks ka teed.<delimiter>Seepärast öeldakse:<delimiter>Valge tee tundub hämarana,<delimiter>mineku tee tundub tulemisena,<delimiter>sile tee tundub konarlikuna,<delimiter>kõrgeim vägi tundub madalana,<delimiter>suurim puhtus tundub räpasena,<delimiter>kõikehõlmav vägi tundub puudulikuna,<delimiter>võimas vägi tundub jõuetuna,<delimiter>ausameelsus tundub kahtlasena.<delimiter>Suurel ruudul nurki ei ole,<delimiter>suur töö ei saa valmis,<delimiter>suurt heli ei kuule,<delimiter>suurel asjal pole kuju.<delimiter>Teel nime ei ole.<delimiter>Ta on varjus, ta loovutab ja täiustab.
+<h1>42</h1>
+Tee annab ühe,<delimiter>üks annab kaks,<delimiter>kaks annavad kolm,<delimiter>kolm annavad kõik.<delimiter>Kõigil on tumedus süles ja heledus ümber,<delimiter>elujõud koos.<delimiter>Inimene hoidub alandusest,<delimiter>kuningas alandab end ise.<delimiter>Mis kaob, see tuleb;<delimiter>mis tuleb, see kaob.<delimiter>On teised öelnud,<delimiter>ütlen minagi:<delimiter>Kangus ise ei sure.
+<h1>43</h1>
+Õrn on kangest üle.<delimiter>Mida pole, läheb sinna, kus on;<delimiter>just nõnda on kasu siis, kui midagi ei tee.<delimiter>Sõnu pole vaja,<delimiter>teha pole vaja.<delimiter>Vähesed mõistavad.
+<h1>44</h1>
+Su nimi või sa ise?<delimiter>Sa ise või su vara?<delimiter>Saamine või andmine?<delimiter>Palju tahad – palju kulub.<delimiter>Palju kogud – palju kaob.<delimiter>Kui piisab, oled häbist väljas.<delimiter>Kui peatud, oled ohust väljas.<delimiter>Nii kestad kaua.
+<h1>45</h1>
+Parim tundub poolik.<delimiter>Ometi ei ammendu.<delimiter>Täius tundub tühi.<delimiter>Ometi ei lõpe.<delimiter>Õige tundub kõver.<delimiter>Oskus tundub kohmakas.<delimiter>Hea kõne tundub kogelus.<delimiter>Liikudes saad sooja.<delimiter>Rahunedes jahtud maha.<delimiter>Selgus ja rahu korrastavad kõik.
+<h1>46</h1>
+Kui maailm on teel,<delimiter>siis hobused väetavad põlde.<delimiter>Kui maailm ei ole teel,<delimiter>siis hobused valvavad piiridel.<delimiter>Soovid toovad kurja.<delimiter>Rahutus toob pahandust.<delimiter>Tahtmine toob õnnetust.<delimiter>Kui tead, et piisab,<delimiter>siis ka piisab.
+<h1>47</h1>
+Ei pea välja minema,<delimiter>et aru saada.<delimiter>Ei pea vaatama,<delimiter>et näha teed.<delimiter>Kaugenedes<delimiter>mõistad vähem.<delimiter>Tark ei liigu, aga teab;<delimiter>ei vaata, aga näeb;<delimiter>ei tee, aga mõjub.
+<h1>48</h1>
+Kui õpid, siis kasvad.<delimiter>Kui oled teel, siis kaod.<delimiter>Kui kaod, siis loobud.<delimiter>Kui loobud, ei tee midagi, aga mõjud.<delimiter>Kui ei tee, siis saad.<delimiter>Kui teed, saad vähe.
+<h1>49</h1>
+Tark ei mõtle.<delimiter>Rahvas mõtleb temaga.<delimiter>Headele hea.<delimiter>Halbadele hea.<delimiter>Vägevatele hea.<delimiter>Usaldusele usaldus.<delimiter>Usaldamatule usaldus.<delimiter>Vägevatele usaldus.<delimiter>Tark on tasa.<delimiter>Rahu levib.<delimiter>Rahvas kuulab.<delimiter>Lapsed kõik.
+<h1>50</h1>
+Kes sünnib, see sureb.<delimiter>Mõned on elus.<delimiter>Mõned on surmas.<delimiter>Mõned on elus ja surmas.<delimiter>Sest liiga palju tahavad.<delimiter>Olevat õieti liikujaid,<delimiter>kel pole vaja karta<delimiter>ninasarvikut ega tiigrit<delimiter>ega sõjariistu.<delimiter>Ninasarvik ei leia sarve jaoks kohta.<delimiter>Tiiger ei leia küünte jaoks kohta.<delimiter>Sõjariist ei leia temas kohta.<delimiter>Sest temas pole surma.
+<h1>51</h1>
+Tee annab. Vägi lisab.<delimiter>Aine kujundab. Olu valmistab.<delimiter>Kõigil on tee aus<delimiter>ja vägi hinnas.<delimiter>Keegi ei sunni.<delimiter>Loomus on selline.<delimiter>Tee annab ja vägi lisab<delimiter>ja juhib ja suunab<delimiter>ja toidab<delimiter>ja kaitseb.<delimiter>Annab ega võta.<delimiter>Teeb ega toetu.<delimiter>Juhib ega valitse.<delimiter>Sügav vägi.
+<h1>52</h1>
+Maailma algus on maailma ema.<delimiter>Kes tunneb ema, tunneb ka last.<delimiter>Kes tunneb last, hoiab ema.<delimiter>Ihu lahkub valutult.<delimiter>Paned suu kinni,<delimiter>paned väravad kinni<delimiter>— ei mingit muret.<delimiter>Teed suu lahti,<delimiter>õiendad igal pool<delimiter>— muredest puudu ei tule.<delimiter>Kes väikest näeb, saab selgeks.<delimiter>Kes õrna hoiab, saab tugevaks.<delimiter>Selles valguses kulged jälle selgusse.<delimiter>Muresid pole. Püsivus viib sihile.
+<h1>53</h1>
+Vähesest tarkusest piisab,<delimiter>et suurel teel püsida,<delimiter>kartmata kõrvale kaldumist.<delimiter>Kui see tundub liiga kerge,<delimiter>minnakse kitsastele radadele.<delimiter>Loss hiilgav,<delimiter>põld söötis,<delimiter>ait tühi.<delimiter>Uhked riided,<delimiter>mõõgad vööl,<delimiter>söögid-joogid,<delimiter>varad kuhjatud.<delimiter>Ärbeldakse ja röövitakse.<delimiter>See ei ole tee.
+<h1>54</h1>
+Hästi istutatut ei saa välja kiskuda,<delimiter>hästi hoitut ei saa ära võtta.<delimiter>Austus püsib põlvest põlve.<delimiter>Endas kasvab mõjus vägi,<delimiter>peres kasvab rikas vägi,<delimiter>külas kasvab püsiv väg,<delimiter>riigis kasvab helde vägi,<delimiter>maailmas kasvab kõikjale ulatuv vägi.<delimiter>Nii näed endas ennast,<delimiter>peres peret, külas küla,<delimiter>riigis riiki, maailmas maailma.<delimiter>Kuidas ma näen maailma niimoodi?<delimiter>Niimoodi näengi.
+<h1>55</h1>
+Kellel väge väga palju,<delimiter>on kui äsja sündind laps.<delimiter>Mesilane ei nõela,<delimiter>kull ei noki,<delimiter>kiskja ei ründa.<delimiter>Kont on pehme, liha õrn,<delimiter>kinni hoiab kõvasti.<delimiter>Sugu ei tee, aga riist on püsti,<delimiter>elujõudu täis.<delimiter>Kisendab häält kaotamata, kooskõlas.<delimiter>Kooskõla viib püsivusele.<delimiter>Püsivus viib selgusele.<delimiter>Kes elu aitab, on õnnelik.<delimiter>Kes hinge juhib, on võimas.<delimiter>Mis tee see on, kui oled vanadusest nõder?<delimiter>Kui poleks tee, siis oleks ammu lõpp.
+<h1>56</h1>
+Kes teab, ei räägi.<delimiter>Kes räägib, ei tea.<delimiter>Paned suu kinni,<delimiter>paned väravad kinni.<delimiter>Tera läheb nüriks.<delimiter>Sõlm tuleb lahti.<delimiter>Sära tuhmub.<delimiter>Tolm jääb alles.<delimiter>Põhjatu samasus.<delimiter>Ei lähedust ega võõrastust.<delimiter>Ei kasu ega kahju.<delimiter>Ei väärtust ega väärtusetust.<delimiter>See ongi väärtuslik siin maailmas.
+<h1>57</h1>
+Riiki juhib õiglus.<delimiter>Sõda juhib kavalus.<delimiter>Maailma juhib muretus.<delimiter>Kuidas nii?<delimiter>Vaesus tuleb keelamisest.<delimiter>Segadus tuleb sõjariistadest.<delimiter>Imelikud asjad tulevad oskustest.<delimiter>Vargad ja röövlid tulevad seadustest.<delimiter>Tark ei tee midagi<delimiter>ja rahvas kulgeb ise.<delimiter>Tark on rahus<delimiter>ja rahvas saab õigeks.<delimiter>Tark ei muretse<delimiter>ja rahvas saab rikkaks.<delimiter>Tark ei taha midagi<delimiter>ja rahvas saab loomulikuks.
+<h1>58</h1>
+Kui kuningas on muretu,<delimiter>siis rahvas on rõõmus.<delimiter>Kui kuningas on murelik,<delimiter>siis rahvas kannatab.<delimiter>Õnn on õnnetuse peal,<delimiter>õnnetus on õnne sees.<delimiter>Kus on piir?<delimiter>Õigust pole — kõver rada.<delimiter>Headus hakkab veiderdama.<delimiter>Segadus läheb suuremaks.<delimiter>Tark on õige, kuid ei lõika.<delimiter>Tark on terav, kuid ei torka.<delimiter>Tark on otsekohene, kuid vaikne.<delimiter>Tark küll särab, aga ei pimesta.
+<h1>59</h1>
+Parim valitseja on vähenõudlik.<delimiter>Vähenõudlik on paindlik.<delimiter>Paindlikul on väge.<delimiter>Väelisel on mõju.<delimiter>Mõjukal ei ole piire.<delimiter>Piirituna valitsed.<delimiter>Emalikult püsid kaua.<delimiter>Sest juur on sügav, tüvi tugev.<delimiter>Pikk elu nägemise tee.
+<h1>60</h1>
+Juhi riiki, nagu küpsetaks väikseid kalu.<delimiter>Kui teel valitsed maailma,<delimiter>siis kurjus kaob ja kurjadel ei ole võimu.<delimiter>Ei tee nad kahju kellelegi.<delimiter>Ei tee ka tark kahju kellelegi.<delimiter>Ei tee nad kahju teineteiselegi.<delimiter>Väed saavad kokku tagasi.
+<h1>61</h1>
+Suur riik laskub alla<delimiter>nagu ühtimisvalmis emane siin maailmas.<delimiter>Rahulolev emane võtab<delimiter>alla jäädes isase.<delimiter>Kui suur riik laskub alla väikese ees,<delimiter>saab ta väikese endale.<delimiter>Kui väike riik laskub alla suure ees,<delimiter>saab ta suure endale.<delimiter>Üks võidab alla laskudes.<delimiter>Teine võidab all olles.<delimiter>Suur riik hoolitseb rahva eest.<delimiter>Väike riik teenib rahvast.<delimiter>Suur olgu madalal.
+<h1>62</h1>
+Tee on kõigile põhjaks.<delimiter>Headele väärtus,<delimiter>halbadele kaitse.<delimiter>Ilusate sõnadega saab meelitada.<delimiter>Austusega saab heameelt teha.<delimiter>Aga kui keegi on halb, miks teda hüljata?<delimiter>Kroonimisel, ülendamisel<delimiter>tehakse kalleid kingitusi.<delimiter>Hoia oma kohta ja püsi teel.<delimiter>Kunagi peeti teed kalliks ja öeldi:<delimiter>otsija leiab,<delimiter>süüalune saab vabaks.<delimiter>Seepärast peetigi teed kalliks.
+<h1>63</h1>
+Teha nii, et ei tee.<delimiter>Toimida nii, et ei toimeta.<delimiter>Maitsta nii, et ei maitse.<delimiter>Väikeses on suur, väheses on palju.<delimiter>Kurjuse vastu on vägi.<delimiter>Raske laheneb kergelt.<delimiter>Suur laheneb väikselt.<delimiter>Raske oli ju algul kerge.<delimiter>Suur oli ju kunagi väike.<delimiter>Tark ei tee suurt midagi,<delimiter>nii ta suurt teebki.<delimiter>Kerget lubadust ei usu keegi.<delimiter>Kerge praegu — raske hiljem.<delimiter>Tark peab kõike raskeks,<delimiter>Seepärast polegi tal raske.
+<h1>64</h1>
+Rahunenut on kerge hoida.<delimiter>Ennustamatut on kerge ette võtta.<delimiter>Nõrka on kerge murendada.<delimiter>Pudenenut on kerge hajutada.<delimiter>Tegele sellega, mida veel pole,<delimiter>juhi seda, mis pole veel sassis.<delimiter>Jäme puu algas peenest võrsest.<delimiter>Kõrge torn algas maapinnalt.<delimiter>Pikk teekond algas ühest sammust.<delimiter>Tark ei tee ja nii ei lõhu.<delimiter>Tark ei võta — ja ei kaota.<delimiter>Teistel luhtub kõik sageli enne lõppu.<delimiter>Märka lõppu enne algust,<delimiter>ja miski ei luhtu.<delimiter>Tark soovib soovimata,<delimiter>midagi tahtmata, õpib õppimata.<delimiter>Pöördudes kõigi poole, olles loomulik,<delimiter>midagi tegemata.
+<h1>65</h1>
+Kunagised teel olijad<delimiter>ei valgustanud rahvast<delimiter>ning jätsid ta hämarusse.<delimiter>Liiga palju tarkust<delimiter>teeb valitsemise raskeks.<delimiter>Tarkusega riiki röövid.<delimiter>Tarkuseta — õnnistad.<delimiter>Mõlemaga mõistad sügavust.<delimiter>Sügavuses mõistad väge.<delimiter>Vägevalt tuled jälle.<delimiter>Puhas rõõm.
+<h1>66</h1>
+Suured jõed ja mered<delimiter>valitsevad ojakesi.<delimiter>Sinna nad ju voolavad: allapoole.<delimiter>Valitsedes alandu.<delimiter>Juhtides hoia tahapoole.<delimiter>Kui tark on ülal,<delimiter>on rahval kerge.<delimiter>Kui tark on ees,<delimiter>on rahval hea.<delimiter>Kõik rõõmustavad<delimiter>ega põlga.<delimiter>Ta ei võistle.<delimiter>Temaga ei võistelda.
+<h1>67</h1>
+Kõik peavad oma teed suureks,<delimiter>ometi ei kõlba.<delimiter>Suur ei kõlba,<delimiter>kõlblik oleks väike.<delimiter>Kolme asja pean kalliks.<delimiter>Üks on armastus.<delimiter>Teine on hoolivus.<delimiter>Kolmas on tagasihoidlikkus.<delimiter>Armastus teeb vapraks.<delimiter>Hoolivus teeb heldeks.<delimiter>Tagasihoidlikkus tõstab.<delimiter>Kes vapralt vihkab või heldelt raiskab<delimiter>või tõuseb häbitult, see hukkub.<delimiter>Kui võitlejas on armastus,<delimiter>siis võit on käes.<delimiter>Sest kaitseb taevas ja armastus, alati.
+<h1>68</h1>
+Hea väejuht ei sõdi.<delimiter>Hea sõdur ei vihastu.<delimiter>Hea võitja ei võitle.<delimiter>Hea juht on madalal.<delimiter>See on vägi, mis ei võistle.<delimiter>See on jõud, mis juhib.<delimiter>See on õige. Alati.
+<h1>69</h1>
+Üks väejuht olla ütelnud:<delimiter>Meelsamini olen külaline.<delimiter>Parema meelega taganeksin.<delimiter>See ongi edasiminek liikumata,<delimiter>valmistumine paljastamata,<delimiter>võitmine kohtumata,<delimiter>relvastumine relvadeta.<delimiter>Kui tahad õnnetust,<delimiter>siis põlga vaenlast.<delimiter>Kui vaenlast põlgad, kaotad kõik.<delimiter>Võidab see, kel teisest kahju.
+<h1>70</h1>
+Mind on väga lihtne mõista<delimiter>ja kerge teostada.<delimiter>Keegi ei mõista.<delimiter>Keegi ei teosta.<delimiter>Sõnad tulevad allikast.<delimiter>Tegudel on põhjused.<delimiter>Kes ei mõista allikat,<delimiter>see ei mõista ka sõnu.<delimiter>Mõni mõistab. Mõni hindab.<delimiter>Targal seljas lihtne riie, südames kuld.
+<h1>71</h1>
+Kes teab, et ei tea, on terve.<delimiter>Kes teab, et teab, on haige.<delimiter>Kes teab oma haigust,<delimiter>on terve.<delimiter>Tark on terve.<delimiter>Ta teab oma haigust.<delimiter>On terve.
+<h1>72</h1>
+Kui võim ei hirmuta,<delimiter>siis on ta suur.<delimiter>Ära lõhu kodusid.<delimiter>Ära halvusta eluviise.<delimiter>Kes ei halvusta,<delimiter>seda ei halvustata.<delimiter>Tark<delimiter>tunneb ennast, kuid ei näita.<delimiter>Armastab ennast, kuid ei tõsta.<delimiter>Ühe võtab, teise jätab.
+<h1>73</h1>
+Julged vihaselt — ja sured.<delimiter>Julged rahulikult — jääd ellu.<delimiter>Ise tead.<delimiter>Mõni asi pole õige.<delimiter>Miks?<delimiter>Tark ka ei tea.<delimiter>Õigel teel<delimiter>ei ole võistlust, ometi võidetakse;<delimiter>ei ole juttu, ometi vastatakse;<delimiter>ei ole kutset, ometi tullakse;<delimiter>ei ole muret. ometi korraldub.<delimiter>Võrk on suur ja lai ja hõre.<delimiter>ometi hoiab.
+<h1>74</h1>
+Kui keegi surma ei karda,<delimiter>milleks siis hukkamised?<delimiter>Kui surma kardetakse<delimiter>ja eksitakse, siis tuleb hukata.<delimiter>Kes söandaks?<delimiter>Hukkajaks on ülim timukas.<delimiter>Kes teda asendada tahab, on kui see,<delimiter>kes suure puutöömeistri eest<delimiter>puid hakkas raiuma.<delimiter>Lõi kirvega kätte.
+<h1>75</h1>
+Rahvas kannatab.<delimiter>Maksud suured.<delimiter>Sellepärast rahvas kannatab.<delimiter>Raske valitseda.<delimiter>Palju toimetamist.<delimiter>Sellepärast raske valitseda.<delimiter>Surmast ei hoolita.<delimiter>Palju elu.<delimiter>Sellepärast surmast ei hoolita.<delimiter>Elu ei ole ainus väärtus.
+<h1>76</h1>
+Mis sünnib, on õrn ja nõrk.<delimiter>Mis sureb, on kuiv ja kange.<delimiter>Puud ja rohud on algul<delimiter>õrnad ja paindlikud.<delimiter>Surres kõvad ja kuivad.<delimiter>Kõvad ja kanged surevad.<delimiter>Õrnad ja nõrgad elavad.<delimiter>Kange relvaga ei võida.<delimiter>Kõva puu läheb katki.<delimiter>Õrn ja nõrk<delimiter>on kõvast ja kangest üle.
+<h1>77</h1>
+Õige tee on nagu vibu pingutamine.<delimiter>Ülemine laskub alla.<delimiter>Alumine tõuseb üles.<delimiter>Liigne väheneb.<delimiter>Puuduv lisaneb.<delimiter>Õige tee võtab liigse,<delimiter>annab puuduva.<delimiter>Inimese tee lisab liigsele,<delimiter>võtab napist.<delimiter>Kes jagab ohtrusest,<delimiter>on teel.<delimiter>Tark teeb ega toetu millelegi,<delimiter>saab valmis ega peatu.<delimiter>Ei näita võimeid.
+<h1>78</h1>
+Kõige õrnem ja nõrgem on vesi.<delimiter>Kõvast ja kangest üle,<delimiter>alati.<delimiter>Nõrk on tugevast üle.<delimiter>Õrn on kangest üle.<delimiter>Kõik teavad.<delimiter>Keegi ei tee.<delimiter>Tark<delimiter>võtab riigi sopa<delimiter>ja tõuseb troonile.<delimiter>Võtab riigi hädad<delimiter>ja valitseb maailma.<delimiter>Õige sõna tundub vale.
+<h1>79</h1>
+Vaen vaibub, viha jääb.<delimiter>Mis selles head?<delimiter>Tark täidab lubadused<delimiter>midagi nõudmata.<delimiter>Kelles vägi, täidab lubadusi.<delimiter>Kelles väge pole, nõuab teistelt täitmist.<delimiter>Õigel teel lähedasi pole.<delimiter>Ainult õiged.
+<h1>80</h1>
+Väike riik ja vähe rahvast.<delimiter>Palju asju, vähe kasutuses.<delimiter>Surm on tähtis. Kaugele ei rännata.<delimiter>Vankrid, paadid seisavad.<delimiter>Sõjariistad varjus.<delimiter>Nööre punutakse.<delimiter>Hästi süüakse. Kaunid rõivad.<delimiter>Kindel kodu. Puhas rõõm.<delimiter>Naaberriik on näha.<delimiter>Kuked-koerad kuulda.<delimiter>Tegemist pole vaja teha.<delimiter>Vananeda ja surra rahus.
+<h1>81</h1>
+Aus pole ilus.<delimiter>Ilus pole aus.<delimiter>Headus ei vaidle.<delimiter>Vaidlus pole hea.<delimiter>Kes mõistab, ei tea.<delimiter>Kes teab, ei mõista.<delimiter>Tark ei kogu midagi.<delimiter>Mida rohkem annab, seda enam saab.<delimiter>Mida enam teeb, seda rohkem jääb.<delimiter>Õige tee toob kasu ilma kahjuta.<delimiter>Targa teel ei ole võistlemist.

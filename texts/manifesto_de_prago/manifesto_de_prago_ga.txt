@@ -1,0 +1,26 @@
+<delimiter>
+<h1>Forógra Phrág</h1>
+Táimidne, gluaiseacht dhomhanda Esperanto, ag díriú an fhorógra seo ar gach rialtas, ar gach eagraíocht idirnáisiúnta, agus ar dhaoine dea-thola, dearbhaímid ár n-intinn dhaingean leanúint ag obair ar son na n-aidhmeanna thíosluaite, agus tugaimid cuireadh do gach eagraíocht agus do gach duine bheith linn inár n-iarrachtaí.
+Sa bhliain 1887 a láinseáladh Esperanto mar theanga chúnta don chumarsáid idirnáisiúnta. Tar éis di forbairt go mear ina teanga bheo shaibhir bheacht, tá Esperanto le breis is céad bliain ag feidhmiú chun daoine ó theangacha is ó chultúir éagsúla a thabhairt le chéile. Idir an dá linn níor chaill aidhmeanna lucht a labhartha a dtábhacht ná a n-ábharthacht. Tá cúpla teanga náisiúnta in úsáid ar fud an domhain, tá dul chun cinn déanta i dteicnící cumarsáide, tá modhanna nua múinte teangacha tagtha ar an saol. Ach ní dócha go mbainfeadh aon cheann acusan na prionsabail seo a leanas amach, prionsabail atá riachtanach, dar linn, d’ord teanga cóir éifeachtach.
+<h1>1. Daonlathas</h1>
+Córas frithdhaonlathach go bunúsach is ea aon chóras cumarsáide a thugann pribhléidí saoil do dhaoine áirithe, ach a éilíonn na blianta crua-oibre ar dhaoine eile chun leibhéal níos ísle cumais a shroicheadh. Cé nach teanga fhoirfe Esperanto ná aon teanga eile, is fearr i bhfad í don chumarsáid ar bhonn cothrom ar scála domhanda ná aon iomathóir.
+Dearbhaímid go leanann éagothroime chumarsáide ar gach leibhéal, ina measc ar an leibhéal idirnáisiúnta, an éagothroime teanga. Is gluaiseacht don chumarsáid dhaonlathach sinn.
+<h1>2. Oideachas Domhanda</h1>
+Tá gach teanga eitneach ceangailte le cultú(i)r is le náisiú(i)n ar leith. Mar shampla, foghlaimíonn foghlaimeoir an Bhéarla faoi chultúr, faoi thíreolaíocht is faoi pholaitíocht thíortha an Bhéarla, go háirithe na Stáit Aontaithe agus Sasana. Foghlaimíonn foghlaimeoir Esperanto faoi dhomhan gan teorainn, agus mothaíonn sé/sí sa bhaile i ngach tír.
+Dearbhaímid go bhfuil oideachas trí aon teanga náisiúnta ceangailte le dearcadh áirithe ar an domhan. Is gluaiseacht don oideachas domhanda sinn.
+<h1>3. Oideachas Éifeachtach</h1>
+Céatadán beag díobhsiúd a dhéanann staidéar ar theanga iasachta a bhaineann máistreacht amach inti. Is féidir máistreacht a fháil ar Esperanto fiú gan mhúinteoir. Thaispeáin staidéir éagsúla fiúntas Esperanto mar ullmhú d’fhoghlaim na dteangacha eile. Moladh Esperanto, leis, mar dhlúthchuid de chúrsaí eolais faoi theangacha eile.
+Dearbhaímid gur síor-bhac í deacracht na dteangacha eitneacha do mhóran foghlaimeoirí, a bhainfeadh tairbhe mar sin féin as dara teanga a fhoghlaim. Is gluaiseacht do mhúineadh éifeachtach na dteangacha sinn.
+<h1>4. Ilteangachas</h1>
+Tá pobal Esperanto ar an mbeagán pobal urlabhra ar scála domhanda gur dátheangaigh nó trítheangaigh a chuid cainteoirí uile. D’fhoghlaim gach ball den phobal teanga iasachta amháin ar a laghad go leibhéal na cumarsáide. Is minic a thugann sé sin eolas ar a lán teangacha, agus grá dóibh, agus leathnú ar réimse spéiseanna go ginearálta.
+Dearbhaímid gur cheart go mbeadh deis ag cainteoirí gach teanga, forleathan nó neamhfhorleathan, an dara teanga a fhoghlaim go leibhéal ard cumarsáide. Is gluaiseacht chun an deis sin a chur ar fáil sinn.
+<h1>5. Cearta Teanga</h1>
+Do chuid mhaith de phobal an domhain, cúis éideimhne nó lom-chos ar bolg teanga is ea roinnt mhíchothrom na cumhachta idir na teangacha. I bpobal Esperanto, buaileann cainteoirí na dteangacha uile, forleathan nó neamhfhorleathan, oifigiúil nó neamhoifigiúil, lena chéile ar bhonn cothrom, trí chomhthoil an chomhghéillte. Caighdeán chun réitigh eile ar mhíchothromaíochtaí is ar choimhlintí teanga a mheas is a fhorbairt a thugann a leithéid de chothromaíocht idir cearta agus freagrachtaí teanga.
+Dearbhaímid gurb iad mórdhifríochtaí cumhachta idir na teangacha a bhaineann an bonn den iliomad ionstraimí idirnáisiúnta a ráthaíonn go bpléifear go cothrom le daoine, gan idirdhealú teanga. Is gluaiseacht do chearta teanga sinn.
+<h1>6. Éagsúlacht Theanga</h1>
+Bíonn claonadh ag rialtais náisiúnta mór-éagsúlacht na dteangacha ar fud an domhain a mheas mar bhac ar an gcumarsáid is ar an bhforbairt. Ní hionann is pobal Esperanto, a mheasann an éagsúlacht theanga mar fhoinse bhuan riachtanach saibhris. Dá bhrí sin, tá gach teanga fiúntach inti féin, mar atá gach rud beo, agus is fiú í a chosaint agus tacú léi.
+Dearbhaímid gurb ionann is breith bháis d’fhormhór theangacha an domhain aon bheartais chumarsáide is forbartha nár bunaíodh ar mheas ar gach teanga, agus ar thacaíocht di. Is gluaiseacht don éagsúlacht theanga sinn.
+<h1>7. Fuascailt an Duine</h1>
+Saorann agus daorann gach teanga lucht a labhartha, ag cur cumarsáide lena chéile ar a gcumas, agus ag cur bac ar chumarsáid le daoine eile. Pleanáilte mar mheán cumasáide uilíoch, tá Esperanto mar cheann de na tionscnaimh mhóra a fheidhmíonn d’fhuascailt an duine. Is tionscnamh í a chuireann ar chumas gach duine páirt a ghlacadh sa phobal daonna, le fréamhacha daingne ina f(h)éiniúlacht áitiúil chultúir is teanga, ach gan a bheith teoranta di.
+Dearbhaímid gurb í úsáid eisiach na dteagacha náisiúnta a chuireann bac le saoirsí cumarsáide, friotail agus caidrimh. Is gluaiseacht d’fhuascailt an duine sinn.
+Prago, jul. 1996
