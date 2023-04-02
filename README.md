@@ -41,7 +41,7 @@ Illustrations can be added while creating the FB2 and EPUB files with the help o
 |ID|Original language|Title|Authors|
 |---|---|---|---|
 |ajj_aakhaan_waris_shah_nu|Punjabi|I Say unto Waris Shah|Amrita Pritam|
-|aptekarsha|Russian|Anton Pavlovich Chekhov|The Chemist’s Wife|
+|aptekarsha|Russian|The Chemist’s Wife|Anton Pavlovich Chekhov|
 |dzikaye_palyavanne|Belarusian|King Stach’s Wild Hunt|Uładzimir Syamyonavich Karatkievich|
 |dziohac|Belarusian|Tar|Maksim Haretski|
 |hansel_und_gretel|German|Hansel and Gretel|Brothers Grimm|
