@@ -56,6 +56,7 @@ Illustrations can be added while creating the FB2 and EPUB files with the help o
 |manifesto_de_prago|Esperanto|Prague Manifesto of the movement for the international language Esperanto||
 |nos|Russian|The Nose|Nikolai Vasilievich Gogol|
 |nothing_in_biology|English|Nothing in Biology Makes Sense Except in the Light of Evolution|Theodosius Grigorevich Dobzhansky|
+|o_krasnoludkach_i_sierotce_marysi|Polish|Little Orphan Mary and the Gnomes|Maria Konopnicka|
 |rur|Czech|R.U.R.|Karel Čapek|
 |smert_ivana_ilyicha|Russian|The Death of Ivan Ilyich|Leo Tolstoy|
 |surale|Tatar|Shuraleh|Gabdulla Tukay|
