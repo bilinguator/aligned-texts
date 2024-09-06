@@ -1,5 +1,5 @@
 Hans Christian Andersen
-<h1>Snedronningen. Et eventyr i syv historier</h1>
+<h1>Snedronningen. Et eventyr i syv historier</h1><delimiter>Med illustrasjoner av Vilhelm Pedersen.
 <h1>Første historie, som handler om speilet og splintene.</h1>
 Se så! Nå begynner vi. Når vi er ved enden av historien, vet vi mere enn vi vet nå. For det var et ondt troll. Det var et av de aller verste, det var «Djevelen»!
 En dag var han i et riktig godt humør, for han hadde laget et speil som hadde den egenskapen at alt godt og vakkert som speilte seg i det, forsvant det sammen til nesten ingenting, men det som ikke dugde og tok seg ille ut, trådte rett frem og ble enda verre.

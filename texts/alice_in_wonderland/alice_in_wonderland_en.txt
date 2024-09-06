@@ -1,5 +1,5 @@
 Lewis Carroll
-<h1>Alice’s adventures in Wonderland</h1>
+<h1>Alice’s adventures in Wonderland</h1><delimiter>Illustrations by John Tenniel.
 <i> All in the golden afternoon<delimiter>Full leisurely we glide;<delimiter>For both our oars, with little skill,<delimiter>By little arms are plied,<delimiter>While little hands make vain pretence<delimiter>Our wanderings to guide.</i>
 <i>Ah, cruel Three! In such an hour,<delimiter>Beneath such dreamy weather,<delimiter>To beg a tale breath too weak<delimiter>To stir the tiniest feather!<delimiter>Yet what can one poor voice avail<delimiter>Against three tongues together?</i>
 <i>Imperious Prima flashes forth<delimiter>Her edict “to begin it”—<delimiter>In gentler tones Secunda hopes<delimiter>“There will be nonsense in it!”—<delimiter>While Tertia interrupts the tale<delimiter>Not more than once a minute.</i>
